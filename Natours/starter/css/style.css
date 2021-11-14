@@ -232,9 +232,10 @@ body {
       .card__details ul li {
         text-align: center;
         font-size: 1.5rem;
-        padding: 1rem; }
+        padding: 1rem;
+        color: black; }
         .card__details ul li:not(:last-child) {
-          border-bottom: 1px solid #f7f7f7; }
+          border-bottom: 1px solid #eee; }
 
 .composition {
   position: relative; }
