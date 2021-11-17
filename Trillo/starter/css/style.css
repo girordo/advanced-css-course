@@ -34,6 +34,17 @@ body {
   background-repeat: no-repeat;
   min-height: 100vh; }
 
+.logo {
+  height: 3.25rem; }
+
+.search__icon {
+  height: 2rem;
+  width: 2rem; }
+
+.user-nav__icon {
+  height: 2.25rem;
+  width: 2.25rem; }
+
 .container {
   max-width: 120rem;
   margin: 8rem auto;
@@ -43,7 +54,8 @@ body {
 .header {
   height: 7rem;
   background-color: #fff;
-  border-bottom: var(--color-grey-light-2); }
+  border-bottom: var(--color-grey-light-2);
+  display: flex; }
 
 .content {
   display: flex; }
