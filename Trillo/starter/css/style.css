@@ -105,6 +105,16 @@ body {
     border-radius: 50px;
     margin-right: 2rem; }
 
+.side-nav__icon {
+  width: 1.75rem;
+  height: 1.75rem; }
+
+.legal {
+  font-size: 1.2rem;
+  color: var(--color-grey-light-4);
+  text-align: center;
+  padding: 2.5rem; }
+
 .container {
   max-width: 120rem;
   margin: 8rem auto;
@@ -129,4 +139,5 @@ body {
 
 .hotel-view {
   background-color: orangered;
+  height: 80rem;
   flex: 1; }
